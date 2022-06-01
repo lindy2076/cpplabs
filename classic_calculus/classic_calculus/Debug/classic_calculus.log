@@ -1,0 +1,7 @@
+﻿  classic_calculus.cpp
+C:\Users\kakap\Documents\C 2 sem\classic_calculus\classic_calculus\classic_calculus.h(63,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kakap\Documents\C 2 sem\classic_calculus\classic_calculus\classic_calculus.h(69,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kakap\Documents\C 2 sem\classic_calculus\classic_calculus\classic_calculus.h(80,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kakap\Documents\C 2 sem\classic_calculus\classic_calculus\classic_calculus.h(86,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kakap\Documents\C 2 sem\classic_calculus\classic_calculus\classic_calculus.h(101,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  classic_calculus.vcxproj -> C:\Users\kakap\Documents\C 2 sem\classic_calculus\Debug\classic_calculus.exe
